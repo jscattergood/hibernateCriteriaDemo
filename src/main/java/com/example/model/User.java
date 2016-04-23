@@ -6,7 +6,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * @author <a href="mailto:john.scattergood@navis.com">John Scattergood</a> 4/22/2016
+ * @author <a href="https://github.com/jscattergood">John Scattergood</a> 4/22/2016
  */
 @Entity
 public class User {

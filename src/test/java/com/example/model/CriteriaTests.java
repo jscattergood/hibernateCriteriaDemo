@@ -18,7 +18,7 @@ import java.util.List;
 import static org.junit.Assert.assertTrue;
 
 /**
- * @author <a href="mailto:john.scattergood@navis.com">John Scattergood</a> 4/22/2016
+ * @author <a href="https://github.com/jscattergood">John Scattergood</a> 4/22/2016
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = {DemoApplication.class})
